@@ -1,2 +1,2 @@
 # content
-Curriculum content
+-- Curriculum content --
