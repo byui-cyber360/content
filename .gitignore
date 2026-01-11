@@ -1,0 +1,5 @@
+# Microsoft Office lock/temp files
+~$*
+*.tmp
+*.bak
+*.lnk
